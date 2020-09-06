@@ -1,0 +1,13 @@
+{
+    "ID":"B89473DEE4DF413B88D53349836371B3",
+    "ActionKeyword":"l",
+    "Name":"Lucky Search",
+    "Description":"Fastest way to open up any content on the internet",
+    "Author":"Runkelstein",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/runkelstein/Wox.Plugin.LuckySearch",
+    "ExecuteFileName":"Wox.Plugin.LuckySearch.dll",
+    "IcoPath":"Images\\app.png",
+    "Disabled": true
+}
